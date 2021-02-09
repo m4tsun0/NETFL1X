@@ -7,4 +7,5 @@ cada título ou pôster te levará à um vídeo no youtube. No canto superior di
 Para q o site funcione corretamente é necessário baixar o arquivo .rar e descompactálo, logo após baixe as imagens e coloque-as na pasta img (sem alterar o nome nem da pasta e nem
 das imagens). Depois de ter feito isso abra a pasta no VSCODE e instale a extensão "Live Server", e por fim abra o arquivo index.html no VSCODE através da extensão Live Server.
 
-Ps.Peço perdão por não ter conseguido compactar tudo, as imagens ultrapassaram o limite de tamanho do Github. Obrigado e espero que goste do meu trabalho =]
+Ps1. A maioria das imagens são desse perfil do reddit: "https://www.reddit.com/user/tl_designn/" 
+Ps2. Peço perdão por não ter conseguido compactar tudo, as imagens ultrapassaram o limite de tamanho do Github. Obrigado e espero que goste do meu trabalho =]
