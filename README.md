@@ -1,4 +1,4 @@
-# NETFL1X
+# *NETFL1X*
 Um site de Fórmula 1 nos moldes da Netflix, realizado em um exercício no Bootcamp da DIO.
 
 Esse site possúi algumas opções, o "filme principal" leva para o trailer da série, enquanto as informações levará para o site do imdb; O "catálogo de filmes realmente funciona, 
